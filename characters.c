@@ -122,13 +122,16 @@ int generateRandomCharacters(){
     int race = rand() % 3;    // on tire une 1ère valeur entre 0 et 3
     charactersValues[0] = race;
 
+    switch (charactersValues[0]) {
+        case 0:
+            printf("")
+    }
+
     // Définition de la classe //
     int classe = rand() % 3;    // on tire une 1ère valeur entre 0 et 2
     charactersValues[1] = classe;
     showArray(2, charactersValues);
-    switch (charactersValues) {
 
-    }
 
 
 
