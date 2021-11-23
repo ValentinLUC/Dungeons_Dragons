@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Donjons_Dragons" targetName="Donjons_Dragons" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f37c628-faee-4cac-b64d-61c3fb787b3d" name="Changes" comment="gros commit">
+      <change beforePath="$PROJECT_DIR$/Donjons_Dragons/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Donjons_Dragons/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="valouche" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="valouche" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zx0A6pJO6kXg8jmoRTKDvtTUmI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CLion-workspace\Parcours Innovation\Dungeons&amp;Dragons\D&amp;D\Donjons_Dragons" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Donjons_Dragons" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Donjons_Dragons" TARGET_NAME="Donjons_Dragons" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Donjons_Dragons" RUN_TARGET_NAME="Donjons_Dragons">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f37c628-faee-4cac-b64d-61c3fb787b3d" name="Changes" comment="" />
+      <created>1635074284691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635074284691</updated>
+      <workItem from="1635074287236" duration="699000" />
+      <workItem from="1635166311670" duration="62000" />
+      <workItem from="1635241753115" duration="623000" />
+      <workItem from="1635251990697" duration="1182000" />
+      <workItem from="1635254385198" duration="6157000" />
+      <workItem from="1635264545876" duration="37000" />
+      <workItem from="1635938645942" duration="9004000" />
+      <workItem from="1636132874622" duration="4627000" />
+      <workItem from="1636284038241" duration="3365000" />
+      <workItem from="1636396359585" duration="527000" />
+      <workItem from="1636814789867" duration="126000" />
+      <workItem from="1636831889079" duration="653000" />
+      <workItem from="1636916965998" duration="2281000" />
+      <workItem from="1636964944635" duration="493000" />
+      <workItem from="1636984405828" duration="1095000" />
+      <workItem from="1637000615980" duration="572000" />
+      <workItem from="1637013732107" duration="2239000" />
+      <workItem from="1637056877960" duration="11846000" />
+      <workItem from="1637075867355" duration="1216000" />
+      <workItem from="1637077117561" duration="1296000" />
+      <workItem from="1637609027009" duration="11641000" />
+      <workItem from="1637660951061" duration="16758000" />
+    </task>
+    <task id="LOCAL-00001" summary="D&amp;D">
+      <created>1637071371599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637071371599</updated>
+    </task>
+    <task id="LOCAL-00002" summary="repair">
+      <created>1637074655971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637074655971</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gros commit">
+      <created>1637673525719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637673525719</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="valouche" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="valouche" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/D&amp;D/Donjons_Dragons" />
+    </ignored-roots>
+    <MESSAGE value="D&amp;D" />
+    <MESSAGE value="repair" />
+    <MESSAGE value="gros commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="gros commit" />
+  </component>
+</project>
