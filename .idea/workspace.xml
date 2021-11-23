@@ -11,8 +11,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f37c628-faee-4cac-b64d-61c3fb787b3d" name="Changes" comment="gros commit">
-      <change beforePath="$PROJECT_DIR$/Donjons_Dragons/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Donjons_Dragons/main.c" afterDir="false" />
+    <list default="true" id="1f37c628-faee-4cac-b64d-61c3fb787b3d" name="Changes" comment="please help me">
+      <change beforePath="$PROJECT_DIR$/Donjons_Dragons" beforeDir="false" afterPath="$PROJECT_DIR$/Donjons_Dragons" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +112,7 @@
       <workItem from="1637075867355" duration="1216000" />
       <workItem from="1637077117561" duration="1296000" />
       <workItem from="1637609027009" duration="11641000" />
-      <workItem from="1637660951061" duration="16758000" />
+      <workItem from="1637660951061" duration="17056000" />
     </task>
     <task id="LOCAL-00001" summary="D&amp;D">
       <created>1637071371599</created>
@@ -135,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637673525719</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="please help me">
+      <created>1637680760057</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637680760057</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +194,7 @@
     <MESSAGE value="D&amp;D" />
     <MESSAGE value="repair" />
     <MESSAGE value="gros commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="gros commit" />
+    <MESSAGE value="please help me" />
+    <option name="LAST_COMMIT_MESSAGE" value="please help me" />
   </component>
 </project>
